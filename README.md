@@ -5,7 +5,7 @@
 # 140.CampusIdleGoodsTradingWebsiteManagementSystem
 
 <p>抠: 206157502(sql文件)</p>
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 
 <p><h1 align="center">140.校园闲置物品交易网站管理系统</h1></p>
 
